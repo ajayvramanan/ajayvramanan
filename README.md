@@ -1,4 +1,4 @@
-# setting-up
+# About-me
 Hi, I'm Ajay 👋
 
 I'm a Mechanical Engineering PhD working in
