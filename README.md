@@ -18,3 +18,5 @@ Current interests
 Projects
 
 🔹 WAAM Bead Width Detection
+🔹 WAAM - Slicer
+🔹 3D-scan-height-profile-tool
